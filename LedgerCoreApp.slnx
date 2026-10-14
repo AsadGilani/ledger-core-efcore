@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="LedgerCoreApp.Tests/LedgerCoreApp.Tests.csproj" />
   <Project Path="LedgerCoreApp/LedgerCoreApp.csproj" />
 </Solution>

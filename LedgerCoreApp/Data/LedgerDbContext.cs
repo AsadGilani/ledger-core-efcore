@@ -4,6 +4,14 @@ namespace LedgerCoreApp
 {
     public class LedgerDbContext : DbContext
     {
+        public LedgerDbContext()
+        {
+        }
+
+        public LedgerDbContext(DbContextOptions<LedgerDbContext> options) : base(options)
+        {
+        }
+
         public DbSet<Account> Accounts => Set<Account>();
         public DbSet<LedgerEntry> LedgerEntries => Set<LedgerEntry>();
         public DbSet<AuthorizationHold> Holds => Set<AuthorizationHold>();
@@ -12,7 +20,10 @@ namespace LedgerCoreApp
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseInMemoryDatabase("LedgerCoreDb");
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseInMemoryDatabase("LedgerCoreDb");
+            }
         }
     }
 }
