@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z3RygNcwJ/A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ariba_xg\\OneDrive\\Desktop\\LedgerCoreApp\\LedgerCoreApp\\LedgerCoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.13\\microsoft.entityframeworkcore.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.13\\microsoft.entityframeworkcore.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.13\\microsoft.entityframeworkcore.analyzers.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.13\\microsoft.entityframeworkcore.inmemory.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.13\\microsoft.extensions.caching.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.13\\microsoft.extensions.caching.memory.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.13\\microsoft.extensions.dependencyinjection.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.13\\microsoft.extensions.dependencyinjection.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.extensions.logging\\10.0.13\\microsoft.extensions.logging.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.13\\microsoft.extensions.logging.abstractions.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.extensions.options\\10.0.13\\microsoft.extensions.options.10.0.13.nupkg.sha512",
+    "C:\\Users\\ariba_xg\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.13\\microsoft.extensions.primitives.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
